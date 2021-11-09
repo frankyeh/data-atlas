@@ -8,8 +8,8 @@ Cingulum_Parahippocampal_Parietal_L
 Cingulum_Parahippocampal_Parietal_R
 Cingulum_Parahippocampal_L
 Cingulum_Parahippocampal_R
-Cingulum_Rarolfactory_L
-Cingulum_Rarolfactory_R
+Cingulum_Parolfactory_L
+Cingulum_Parolfactory_R
 Extreme_Capsule_L
 Extreme_Capsule_R
 Frontal_Aslant_Tract_L
