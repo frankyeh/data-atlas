@@ -7,7 +7,7 @@ ISO map is from the Watson's GRE image of the work (resampled at 45 micron).
 Although the shape model follows Watson's, the coordinates system was replaced by Duke CIVM's mouse template to address two issues in Watson:
 
 (1) a flip in the y direction
-(2) the origin is not located near anterior commissure.
+(2) origin is moved to the anterior commissure.
 
 This new DSI Studio's C57BL/6 space combines the strength of Duke CIVM and Watson.
 
