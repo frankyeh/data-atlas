@@ -1,3 +1,6 @@
+The ATAG atlas included in DSI Studio is shfted 3 mm in y direction to match ICBM152 space.
+
+
 ————————————————————————————————————————————————————————————————————————
 The ATAG atlas is an atlas of the:	1) striatum (STR)	2) globus pallidus internal segment (GPi)	3) globus pallidus external segment (GPe)	4) red nucleus (RN)	5) substantia nigra (SN)	6) subthalamic nucleus (STh)————————————————————————————————————————————————————————————————————————The atlas contains probabilistic spatial information based on 30 young 
 subjects.
