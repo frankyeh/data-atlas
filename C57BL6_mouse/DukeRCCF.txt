@@ -27,7 +27,7 @@
 27 ENT__Entorhinal_area_left
 28 SUBR__Subicular_region_left
 29 HI__Hippocampus_left
-30 HIP__Hippocampal_region
+30 HIP__Hippocampal_region_left
 31 CA1__Field_CA1_left
 32 CA3__Field_CA3_left
 33 DG__Dentate_gyrus_left
@@ -181,7 +181,7 @@
 1001 CH__Cerebrum_right
 1002 grey__Basic_cell_groups_and_regions_right
 1003 OB__Olfactory_bulb_right
-1004 AON__Anterior_olfactory_nucleus
+1004 AON__Anterior_olfactory_nucleus_right
 1005 FRP__Frontal_pole__cerebral_cortex_right
 1006 ORB__Orbital_area_right
 1007 PL__Prelimbic_area_right
@@ -207,7 +207,7 @@
 1027 ENT__Entorhinal_area_right
 1028 SUBR__Subicular_region_right
 1029 HI__Hippocampus_right
-1030 HIP__Hippocampal_region
+1030 HIP__Hippocampal_region_right
 1031 CA1__Field_CA1_right
 1032 CA3__Field_CA3_right
 1033 DG__Dentate_gyrus_right
