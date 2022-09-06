@@ -56,8 +56,8 @@ Thalamic_Radiation_Posterior_L
 Thalamic_Radiation_Posterior_R
 Thalamic_Radiation_Superior_L
 Thalamic_Radiation_Superior_R
-Dentatorubrothalamic_Tract_L
-Dentatorubrothalamic_Tract_R
+Dentatorubrothalamic_Tract_LR
+Dentatorubrothalamic_Tract_RL
 Fornix_L
 Fornix_R
 Medial_Lemniscus_L
