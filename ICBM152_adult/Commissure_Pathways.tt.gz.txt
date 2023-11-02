@@ -1,5 +1,0 @@
-Anterior_Commissure
-Corpus_Callosum_Forceps_Minor
-Corpus_Callosum_Body
-Corpus_Callosum_Tapetum
-Corpus_Callosum_Forceps_Major

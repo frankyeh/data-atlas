@@ -1,7 +1,0 @@
-Cerebellum_L
-Cerebellum_R
-Inferior_Cerebellar_Peduncle_L
-Inferior_Cerebellar_Peduncle_R
-Middle_Cerebellar_Peduncle
-Superior_Cerebellar_Peduncle
-Vermis
