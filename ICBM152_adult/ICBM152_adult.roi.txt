@@ -10,3 +10,7 @@
 10 CorticostriatalTractR
 11 OpticRadiationL
 12 OpticRadiationR
+13 SuperiorLongitudinalFasciculus1
+14 CingulumL_FrontalParietal
+15 CingulumR_FrontalParietal
+16 Hippocampus
